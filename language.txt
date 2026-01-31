@@ -1,0 +1,18 @@
+P 2 # seleciona caneta 2 (pen)
+D   # abaixa a caneta (down)
+W 2 # desenha 2 cm para a esquerda (west)
+N 1 # agora 1 cm para cima (north)
+E 2 # agora 2 cm para a direita (east)
+S 1 # agora volta para baixo 1 cm (south)
+U   # levanta a caneta (up)
+D   # abaixa novamente a caneta
+U   # levanta a caneta (up)
+P 1 # seleciona caneta 1 (pen)
+D   # abaixa a caneta (down)
+E 1 # desenha 1 cm para a direita (east)
+N 2 # agora 2 cm para cima (north)
+W 1 # agora 1 cm para a esquerda (west)
+S 2 # agora volta para baixo 2 cm (south)
+U   # levanta a caneta (up)
+D   # abaixa novamente a caneta
+PA 4 # pinte uma area de 4 cm
